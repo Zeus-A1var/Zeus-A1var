@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zeus-A1var
+- 👋 Hi, I’m Zeus
 - 👀 I’m interested in ... Game Developing
 - 🌱 I’m currently learning ... Coding
 - 💞️ I’m looking to collaborate on ...
